@@ -6,6 +6,7 @@
         "start": "./bin/server"
     },
     "dependencies": {
-        "formidable":""
+        "formidable":"",
+        "mongoose":""
     }
 }
